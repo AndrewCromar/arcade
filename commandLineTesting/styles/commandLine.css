@@ -1,0 +1,133 @@
+.commandLineContainer {
+    background-color: rgba(0, 0, 0, 0.5);
+
+    width: 100vw;
+    height: calc(100vh - 100px);
+
+    padding-top: 100px;
+
+    display: flex;
+    justify-content: center;
+
+    overflow: hidden;
+}
+
+.commandLine {
+    margin-bottom: 100px;
+
+    width: 600px;
+    height: fit-content;
+    max-height: calc(100vh - 200px);
+
+    border-radius: 10px;
+    border: solid var(--border-color) 2px;
+
+    overflow: hidden;
+}
+
+.commandLineInput {
+    background-color: var(--background-color);
+
+    display: flex;
+    align-items: center;
+
+    border-bottom: solid var(--border-color) 2px;
+}
+
+.commandLineInput > i {
+    padding: 15px;
+
+    font-size: 25px;
+}
+
+.commandLineInput > input {
+    font-family: var(--font);
+
+    background-color: var(--background-color);
+    color: var(--text-color);
+
+    font-weight: bold;
+
+    flex: 1;
+
+    padding: 10px;
+    margin: 0;
+
+    height: 50px;
+
+    border: none;
+
+    outline: none;
+
+    font-size: larger;
+}
+
+.commandLineResults {
+    max-height: calc(100vh - 300px);
+
+    overflow-y: auto;
+}
+
+.commandLineCommand {
+    background-color: var(--background-color);
+
+    display: flex;
+    align-items: center;
+
+    height: 15px;
+
+    padding: 8px;
+
+    cursor: pointer;
+}
+
+.commandLineCommand:hover {
+    background-color: var(--secondary-background-color);
+}
+
+.commandLineCommand > i, .commandLineCommand > p {
+    margin: 0;
+    margin-right: 10px;
+}
+
+.commandLineCommand > i {
+    height: 15px;
+}
+
+.commandLineCommand > p {
+    font-size: 17;
+}
+
+.commandLineCommandSpacer {
+    width: 14;
+    height: 16;
+
+    margin-right: 10px;
+}
+
+.themeBubbleContainer {
+    margin-left: auto;
+
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    
+    height: 100%;
+
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+}
+
+.themeBubbleContainer > :nth-child(2) {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.themeBubble {
+    border-radius: 10px;
+
+    height: 100%;
+    aspect-ratio: 1;
+}

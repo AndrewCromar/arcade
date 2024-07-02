@@ -1,0 +1,17 @@
+:root {
+    --font: "Roboto Mono", monospace;
+    
+    --accent-color: rgb(50, 108, 214);
+
+    --background-color: rgb(17, 83, 159);
+    --secondary-background-color: rgb(9, 22, 121);
+
+    --border-color: rgb(125, 125, 125);
+
+    --text-color: rgb(255, 255, 255);
+    --secondary-text-color: rgb(255, 255, 255);
+
+    --success-color: rgb(0, 128, 0);
+    --warning-color: rgb(255, 255, 0);
+    --error-color: rgb(255, 0, 0);
+}
