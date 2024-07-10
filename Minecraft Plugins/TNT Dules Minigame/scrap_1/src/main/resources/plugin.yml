@@ -1,0 +1,11 @@
+name: TNTDulesGamemode
+version: '${project.version}'
+main: dev.onyx.gamemode.tntdules.TNTDulesGamemode
+api-version: '1.20'
+prefix: ONYX
+authors: [ONYXDevelopment]
+description: TNT Dules plugin for Hippo Network.
+commands:
+  allItems:
+    description: Shows a menu with all the TNT Dules items.
+    usage: /<command>
