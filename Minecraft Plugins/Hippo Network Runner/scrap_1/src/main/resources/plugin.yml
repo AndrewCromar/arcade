@@ -1,0 +1,20 @@
+name: HippoNetworkRunner
+version: '${project.version}'
+main: dev.onyx.runner.hipponetworkrunner.HippoNetworkRunner
+api-version: '1.20'
+prefix: ONYX
+authors: [ONYXDevelopment]
+description: Runner for Hippo Network.
+commands:
+  hnrversion:
+    description: Returns the version of the plugin.
+    usage: /<command>
+  adminPanel:
+    description: Brings up the admin panel.
+    usage: /<command>
+  setName:
+    description: Sets the name of the item you are holding.
+    usage: /<command> <name>
+  trash:
+    description: Opens the trash panel.
+    usage: /<command>
