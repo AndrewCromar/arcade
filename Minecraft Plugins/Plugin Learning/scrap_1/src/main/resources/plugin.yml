@@ -1,0 +1,22 @@
+name: Utils
+version: '${project.version}'
+main: mc.onyxdev.utils.Utils
+api-version: 1.20
+authors: [ ONYXDEVELOPMENT ]
+description: Utils for Hippo Network
+website: https://andrewcromar.org/pages/onyx/onyx-development.html
+commands:
+  speed:
+    description: Sets the speed of the player who ran the command.
+    usage: /<command> [<value -1 to 1>, reset]
+  knockbackStick:
+    description: Gives a knockback stick witht the specified knockback level.
+    aliases:
+      - kbs
+    usage: /<command> <knockbacklevel>
+  trash:
+    description: Brings up the trash gui.
+    usage: /<command>
+  adminPanel:
+    description: Pulls up the admin gui.
+    usage: /<command>
