@@ -1,0 +1,19 @@
+Hello and welcome back to another Hell Hotel devlog.
+
+In this video we will show you how we upgraded the look of our world.
+
+Firstly, Andrew worked on making a better elevator.
+
+This was a massive upgrade because it ment ther were buttons that Andrew could add functionality to.
+
+It's alwase better to upgrade your elevator modle from something with a literal refrigerator texture to something better with seperated parts to be animated.
+
+In the background you can see the opening and closing animations for the new elevator design.
+
+Keep in mind even though this is a big elevator revamp it is still not finished and may change in the future.
+
+Next, Andrew worked on a model for the main entrance big door at the front of the hotel.
+
+You can see a comparison between a normal room door, to the new main entrance door.
+
+Lastly, the world has been worked on by David, you can see his work in the background.
