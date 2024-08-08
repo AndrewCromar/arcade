@@ -1,0 +1,4 @@
+└── scrap_1
+    └── session_1
+        ├── generate_structure.py
+        └── structure.txt
