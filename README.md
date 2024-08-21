@@ -62,8 +62,9 @@ Code I need to submit for Hack Club Arcade.
 > [!CAUTION]
 > Make this a dropdown.
 
-> [!CAUTION]
-> Need to add screenshots. 
+![Screenshot 2024-08-20 174036](https://github.com/user-attachments/assets/5fe56e58-0a7e-4ea7-8cd7-5a1ec7c9df96)
+![image](https://github.com/user-attachments/assets/80a2ae1c-43fc-4662-8147-498d2c6dedcf)
+
 
 ## Python Hackaroo Thingy
 
