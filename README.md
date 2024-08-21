@@ -104,13 +104,197 @@ Code I need to submit for Hack Club Arcade.
 </details>
 </details>
 
-## Unity Projects
+<details>
+<summary>Unity Projects</summary><br>
 
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Asdrew Smash</summary><br>  
 
-> [!CAUTION]
-> Fix this section.
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/f619ccf8-5b1c-4aa7-acb1-8adbe8e168b3)
+
+</details>
+</details>
+
+<details>
+<summary>Card Game</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/128e6e9f-9010-4876-b84c-647f7f9c8976)
+
+</details>
+</details>
+
+<details>
+<summary>Cat Game</summary><br>
+
+### See it yourself:
+
+1. Go to [the repo](https://github.com/AndrewCromar/Sergeant-Whiskers-Brigade).
+2. Go to the release page.
+3. There are further instructions on the release page.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/5ac26c91-6de7-4114-9860-67d9d1eb961f)<br>
+![image](https://github.com/user-attachments/assets/86b3d96f-becc-4c08-bebd-6f81110e9157)<br>
+![image](https://github.com/user-attachments/assets/77522477-af4f-4ce9-ad5e-c6ed313aef21)
+
+</details>
+</details>
+
+<details>
+<summary>Coin Pickup System</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/39def7db-c492-4425-bf9b-db8b9ab09db0)<br>
+![image](https://github.com/user-attachments/assets/faa6013c-4e73-45b6-b426-2a4b5b2d72f3)
+
+</details>
+</details>
+
+<details>
+<summary>Dektop Buddy</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/f535f44d-2b51-408f-95ed-b4e939a85438)<br>
+![image](https://github.com/user-attachments/assets/1412a590-eaf1-4984-9160-4af7e709caf7)
+
+</details>
+</details>
+
+<details>
+<summary>FPS Game</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/4c7c4a9f-5ef0-412b-b523-054d2e3124ea)<br>
+![image](https://github.com/user-attachments/assets/8f9d92e4-5860-4374-9468-b76aa67cc8a3)
+
+</details>
+</details>
+
+<details>
+<summary>Hell Hotel</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/3eec03d6-605e-474f-9339-f363076a31e1)<br>
+![image](https://github.com/user-attachments/assets/ad06bf0a-ea45-4e80-8325-ef6c0c802209)<br>
+![image](https://github.com/user-attachments/assets/04f4034e-74e9-4487-902d-6018cbffa09c)<br>
+![image](https://github.com/user-attachments/assets/4f9001ec-31f8-4baa-a541-b0069a490fd5)
+
+</details>
+</details>
+
+<details>
+<summary>Infinite Runner</summary><br>
+
+### See it yourself:
+
+1. On an android device download an apk installer app.
+2. Navigate to the subfolder under the "Unity" folder.
+3. Download the "infanate_runner_onyx.apk".
+4. Load it onto your android device.
+5. Use the apk installer app to install the game.
+
+</details>
+
+<details>
+<summary>Pikaloo Game</summary><br>
+
+### See it yourself:
+
+1. Navigate to the subfolder under the "Unity" folder.
+2. Unzip the "Demo.zip" folder.
+3. Open the extracted "Demo" folder.
+4. Run the ".exe" file.
+
+<details>
+<summary>Screenshots</summary><br>
+
+![image](https://github.com/user-attachments/assets/ec5f5e7a-4073-45d1-a644-ea63d38f683a)<br>
+![image](https://github.com/user-attachments/assets/fd1a9cf7-a2a4-44b9-8202-3e02900383d5)<br>
+![image](https://github.com/user-attachments/assets/280c9265-58ec-42ac-a23e-26fe7fa2e254)
+
+</details>
+</details>
+
+<details>
+<summary>Player Controller</summary><br>
+
+### See it yourself:
+
+1. Go to [the repo](https://github.com/AndrewCromar/Juicy-Player-Controller).
+2. Go to the latest release.
+3. There are furthur instructions on the release page.
+
+<details>
+<summary>Screenshots</summary><br>
+
+[Trailer (Youtube)](https://www.youtube.com/watch?v=qo74vB7uOtk)<br>
+[Website](https://onyx.andrewcromar.org/#juicyplayercontroller)<br>
+![image](https://github.com/user-attachments/assets/77cfe92b-3813-49f2-b71a-51744aa30b79)
+
+</details>
+</details>
+
+#
+
+</details>
 
 <details>
 <summary>Unity Project Seteruper</summary><br>
