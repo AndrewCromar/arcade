@@ -112,10 +112,8 @@ Code I need to submit for Hack Club Arcade.
 > [!CAUTION]
 > Fix this section.
 
-## Unity Project Seteruper
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Unity Project Seteruper</summary><br>
 
 ### See it yourself:
 
@@ -123,13 +121,16 @@ Code I need to submit for Hack Club Arcade.
 2. Open a terminal.
 3. Run the file with python.
 
-### Screenshots:
+<details>
+<summary>Screenshots</summary><br>
 
-> [!CAUTION]
-> Make this a dropdown.
+### Command Line
+![image](https://github.com/user-attachments/assets/722d2576-0e81-48fd-936e-57524bf7d833)
+### Outputted generated directories.
+![image](https://github.com/user-attachments/assets/da91ae78-0fa5-4254-8972-c8ffd5b8c766)
 
-> [!CAUTION]
-> Need to add screenshots. 
+</details>
+</details>
 
 ## Videogame Art
 
