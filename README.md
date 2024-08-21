@@ -11,9 +11,9 @@ Code I need to submit for Hack Club Arcade.
 1. Download the file you want to view.
 2. Open it in a text editor.
 3. Copy the contents.
-4. Go to the (Blot web editor)[https://blot.hackclub.com/editor].
+4. Go to the [Blot web editor](https://blot.hackclub.com/editor).
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
 5. Paste the content into the editor.
@@ -21,21 +21,21 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Commad Line Testing
 
 ### See it yourself:
 
-(View it on my website)[https://andrewcromar.org/commandLineTesting/pages/home].
+[View it on my website](https://andrewcromar.org/commandLineTesting/pages/home).
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Python File Path Generator
@@ -48,7 +48,7 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Python Hackaroo Thingy
@@ -61,7 +61,7 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Sprig Projects
@@ -71,9 +71,9 @@ Code I need to submit for Hack Club Arcade.
 1. Download the file you want to view.
 2. Open it in a text editor.
 3. Copy the contents.
-4. Go to the (Sprig web editor)[https://sprig.hackclub.com/editor].
+4. Go to the [Sprig web editor](https://sprig.hackclub.com/editor).
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
 5. Paste the content into the editor.
@@ -81,7 +81,7 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Unity Projects
@@ -96,7 +96,7 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Videogame Art
@@ -108,34 +108,34 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
 
 ## Websites
 
 ### See it yourself:
 
-(Personal Website)[https://andrewcromar.org/]
+[Personal Website](https://andrewcromar.org/)
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
-(ONYX Development)[https://onyx.andrewcromar.org/]
+[ONYX Development](https://onyx.andrewcromar.org/)
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
-(Trio Productions)[https://trio.andrewcromar.org/]
+[Trio Productions](https://trio.andrewcromar.org/)
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
-(Blog Website)[https://blog.andrewcromar.org/]
+[Blog Website](https://blog.andrewcromar.org/)
 
-> [!CAUTION]
+> (!CAUTION)
 > Test link.
 
 ### Screenshots:
 
-> [!CAUTION]
+> (!CAUTION)
 > Need to add screenshots. 
