@@ -22,8 +22,11 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/5f54ed3b-c2b0-4b08-9add-32b9b3fbbcba)<br>
 ![image](https://github.com/user-attachments/assets/a69c4aa6-088e-44a3-9312-6c0ffe92cc09)<br>
 ![image](https://github.com/user-attachments/assets/47e5ce48-dc05-49d6-928a-b49e1660d003)
-  
+
 </details>
+
+#
+
 </details>
 
 <details>
@@ -43,6 +46,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/3c609ed5-1a1e-4e58-b9f9-4663c2122dfb)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -61,6 +67,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/80a2ae1c-43fc-4662-8147-498d2c6dedcf)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -79,6 +88,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/14605505-deae-43a8-a554-d04bb295202a)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -102,6 +114,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/3658452e-78db-47e5-b298-3228a3710173)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -123,6 +138,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/f619ccf8-5b1c-4aa7-acb1-8adbe8e168b3)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -141,6 +159,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/128e6e9f-9010-4876-b84c-647f7f9c8976)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -160,6 +181,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/77522477-af4f-4ce9-ad5e-c6ed313aef21)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -179,6 +203,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/faa6013c-4e73-45b6-b426-2a4b5b2d72f3)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -198,6 +225,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/1412a590-eaf1-4984-9160-4af7e709caf7)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -217,6 +247,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/8f9d92e4-5860-4374-9468-b76aa67cc8a3)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -238,6 +271,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/4f9001ec-31f8-4baa-a541-b0069a490fd5)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -271,6 +307,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/280c9265-58ec-42ac-a23e-26fe7fa2e254)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -290,6 +329,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/77cfe92b-3813-49f2-b71a-51744aa30b79)
 
 </details>
+
+#
+
 </details>
 
 #
@@ -314,6 +356,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/da91ae78-0fa5-4254-8972-c8ffd5b8c766)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -330,6 +375,9 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/bfd2fcfb-f844-41e7-9501-32b811605614)
 
 </details>
+
+#
+
 </details>
 
 <details>
@@ -356,4 +404,7 @@ Code I need to submit for Hack Club Arcade.
 ![image](https://github.com/user-attachments/assets/c733b979-0bfe-4767-be07-bc0848594782)
 
 </details>
+
+#
+
 </details>
