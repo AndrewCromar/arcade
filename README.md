@@ -4,10 +4,8 @@ Code I need to submit for Hack Club Arcade.
 
 # How to View
 
-## Blot Projects
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Blot Projects</summary><br>
 
 ### See it yourself:
 
@@ -18,14 +16,15 @@ Code I need to submit for Hack Club Arcade.
 5. Paste the content into the editor.
 6. Click run to view the file.
 
-### Screenshots:
-
-> [!CAUTION]
-> Make this a dropdown.
-
+<details>
+<summary>Screenshots</summary><br>
+  
 ![image](https://github.com/user-attachments/assets/5f54ed3b-c2b0-4b08-9add-32b9b3fbbcba)<br>
 ![image](https://github.com/user-attachments/assets/a69c4aa6-088e-44a3-9312-6c0ffe92cc09)<br>
 ![image](https://github.com/user-attachments/assets/47e5ce48-dc05-49d6-928a-b49e1660d003)
+  
+</details>
+</details>
 
 ## Commad Line Testing
 
