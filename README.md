@@ -104,9 +104,9 @@ Code I need to submit for Hack Club Arcade.
 
 ### See it yourself:
 
-[Personal Website](https://andrewcromar.org/)
-[ONYX Development](https://onyx.andrewcromar.org/)
-[Trio Productions](https://trio.andrewcromar.org/)
+[Personal Website](https://andrewcromar.org/)<br>
+[ONYX Development](https://onyx.andrewcromar.org/)<br>
+[Trio Productions](https://trio.andrewcromar.org/)<br>
 [Blog Website](https://blog.andrewcromar.org/)
 
 ### Screenshots:
