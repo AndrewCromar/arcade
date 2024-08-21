@@ -12,10 +12,6 @@ Code I need to submit for Hack Club Arcade.
 2. Open it in a text editor.
 3. Copy the contents.
 4. Go to the [Blot web editor](https://blot.hackclub.com/editor).
-
-> [!CAUTION]
-> Test link.
-
 5. Paste the content into the editor.
 6. Click run to view the file.
 
@@ -29,9 +25,6 @@ Code I need to submit for Hack Club Arcade.
 ### See it yourself:
 
 [View it on my website](https://andrewcromar.org/commandLineTesting/pages/home).
-
-> [!CAUTION]
-> Test link.
 
 ### Screenshots:
 
@@ -72,10 +65,6 @@ Code I need to submit for Hack Club Arcade.
 2. Open it in a text editor.
 3. Copy the contents.
 4. Go to the [Sprig web editor](https://sprig.hackclub.com/editor).
-
-> [!CAUTION]
-> Test link.
-
 5. Paste the content into the editor.
 6. Click run to view the file.
 
@@ -116,24 +105,9 @@ Code I need to submit for Hack Club Arcade.
 ### See it yourself:
 
 [Personal Website](https://andrewcromar.org/)
-
-> [!CAUTION]
-> Test link.
-
 [ONYX Development](https://onyx.andrewcromar.org/)
-
-> [!CAUTION]
-> Test link.
-
 [Trio Productions](https://trio.andrewcromar.org/)
-
-> [!CAUTION]
-> Test link.
-
 [Blog Website](https://blog.andrewcromar.org/)
-
-> [!CAUTION]
-> Test link.
 
 ### Screenshots:
 
