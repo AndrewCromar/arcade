@@ -26,30 +26,27 @@ Code I need to submit for Hack Club Arcade.
 </details>
 </details>
 
-## Commad Line Testing
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Commad Line Testing</summary><br>
 
 ### See it yourself:
 
 [View it on my website](https://andrewcromar.org/commandLineTesting/pages/home).
 
-### Screenshots:
-
-> [!CAUTION]
-> Make this a dropdown.
-
+<details>
+<summary>Screenshots</summary><br>
+  
 ![image](https://github.com/user-attachments/assets/d2b194d7-b549-4cfa-a892-ca8599c5e318)<br>
 ![image](https://github.com/user-attachments/assets/aeda3b67-f5d2-4d18-b023-05d4caf692ef)<br>
 ![image](https://github.com/user-attachments/assets/d1a3834f-e5e7-4dd8-95f5-f98a2d998bb8)<br>
 ![image](https://github.com/user-attachments/assets/3f1a2beb-7513-454d-bf77-0141b6865998)<br>
 ![image](https://github.com/user-attachments/assets/3c609ed5-1a1e-4e58-b9f9-4663c2122dfb)
 
-## Python File Path Generator
+</details>
+</details>
 
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Python File Path Generator</summary><br>
 
 ### See it yourself:
 
@@ -57,16 +54,18 @@ Code I need to submit for Hack Club Arcade.
 2. Open a terminal.
 3. Run the file with python.
 
-### Screenshots:
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Screenshots</summary><br>
 
 ![image](https://github.com/user-attachments/assets/5fe56e58-0a7e-4ea7-8cd7-5a1ec7c9df96)
 ![image](https://github.com/user-attachments/assets/80a2ae1c-43fc-4662-8147-498d2c6dedcf)
 
-## Python Hackaroo Thingy
+</details>
+</details>
 
+<details>
+<summary>Python Hackaroo Thingy</summary><br>
+  
 > [!CAUTION]
 > Make this a dropdown.
 
@@ -76,13 +75,14 @@ Code I need to submit for Hack Club Arcade.
 2. Open a terminal.
 3. Run the file with python.
 
-### Screenshots:
-
-> [!CAUTION]
-> Make this a dropdown.
+> <details>
+<summary>Screenshots</summary><br>
 
 ![image](https://github.com/user-attachments/assets/78886f6f-9d71-473f-b7e5-86769d3fcd89)
 ![image](https://github.com/user-attachments/assets/14605505-deae-43a8-a554-d04bb295202a)
+
+</details>
+</details>
 
 ## Sprig Projects
 
