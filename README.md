@@ -132,23 +132,21 @@ Code I need to submit for Hack Club Arcade.
 </details>
 </details>
 
-## Videogame Art
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Videogame Art</summary><br>
 
 ### See it yourself:
 
 1. Download the files.
 2. Open them with any image viewing software.
 
-### Screenshots:
+<details>
+<summary>Screenshots</summary><br>
 
-> [!CAUTION]
-> Make this a dropdown.
+![image](https://github.com/user-attachments/assets/bfd2fcfb-f844-41e7-9501-32b811605614)
 
-> [!CAUTION]
-> Need to add screenshots. 
+</details>
+</details>
 
 ## Websites
 
