@@ -57,7 +57,7 @@ Code I need to submit for Hack Club Arcade.
 <details>
 <summary>Screenshots</summary><br>
 
-![image](https://github.com/user-attachments/assets/5fe56e58-0a7e-4ea7-8cd7-5a1ec7c9df96)
+![image](https://github.com/user-attachments/assets/5fe56e58-0a7e-4ea7-8cd7-5a1ec7c9df96)<br>
 ![image](https://github.com/user-attachments/assets/80a2ae1c-43fc-4662-8147-498d2c6dedcf)
 
 </details>
@@ -65,9 +65,6 @@ Code I need to submit for Hack Club Arcade.
 
 <details>
 <summary>Python Hackaroo Thingy</summary><br>
-  
-> [!CAUTION]
-> Make this a dropdown.
 
 ### See it yourself:
 
@@ -75,19 +72,17 @@ Code I need to submit for Hack Club Arcade.
 2. Open a terminal.
 3. Run the file with python.
 
-> <details>
+<details>
 <summary>Screenshots</summary><br>
 
-![image](https://github.com/user-attachments/assets/78886f6f-9d71-473f-b7e5-86769d3fcd89)
+![image](https://github.com/user-attachments/assets/78886f6f-9d71-473f-b7e5-86769d3fcd89)<br>
 ![image](https://github.com/user-attachments/assets/14605505-deae-43a8-a554-d04bb295202a)
 
 </details>
 </details>
 
-## Sprig Projects
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Sprig Projects</summary><br>
 
 ### See it yourself:
 
@@ -98,13 +93,16 @@ Code I need to submit for Hack Club Arcade.
 5. Paste the content into the editor.
 6. Click run to view the file.
 
-### Screenshots:
+<details>
+<summary>Screenshots</summary><br>
 
-> [!CAUTION]
-> Make this a dropdown.
+### Packman
+![image](https://github.com/user-attachments/assets/2f14b458-d7e8-4b31-a370-f5fe0151f1c5)
+### DDR
+![image](https://github.com/user-attachments/assets/3658452e-78db-47e5-b298-3228a3710173)
 
-> [!CAUTION]
-> Need to add screenshots. 
+</details>
+</details>
 
 ## Unity Projects
 
