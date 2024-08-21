@@ -148,10 +148,8 @@ Code I need to submit for Hack Club Arcade.
 </details>
 </details>
 
-## Websites
-
-> [!CAUTION]
-> Make this a dropdown.
+<details>
+<summary>Websites</summary><br>
 
 ### See it yourself:
 
@@ -160,10 +158,18 @@ Code I need to submit for Hack Club Arcade.
 [Trio Productions](https://trio.andrewcromar.org/)<br>
 [Blog Website](https://blog.andrewcromar.org/)
 
-### Screenshots:
+<details>
+<summary>Screenshots</summary><br>
 
-> [!CAUTION]
-> Make this a dropdown.
+### Personal Website
 
-> [!CAUTION]
-> Need to add screenshots. 
+![image](https://github.com/user-attachments/assets/355f0614-84a2-4e1b-9fe6-188fc40d2b0b)
+### ONYX Development
+![image](https://github.com/user-attachments/assets/d868c345-c77a-4242-82fe-a6c567f2d7bd)
+### Trio Productions
+![image](https://github.com/user-attachments/assets/d3b53204-0ece-43d7-804e-86b44352cda7)
+### Blog Website
+![image](https://github.com/user-attachments/assets/c733b979-0bfe-4767-be07-bc0848594782)
+
+</details>
+</details>
