@@ -17,8 +17,9 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
-> Need to add screenshots. 
+![image](https://github.com/user-attachments/assets/5f54ed3b-c2b0-4b08-9add-32b9b3fbbcba)<br>
+![image](https://github.com/user-attachments/assets/a69c4aa6-088e-44a3-9312-6c0ffe92cc09)<br>
+![image](https://github.com/user-attachments/assets/47e5ce48-dc05-49d6-928a-b49e1660d003)
 
 ## Commad Line Testing
 
@@ -28,8 +29,11 @@ Code I need to submit for Hack Club Arcade.
 
 ### Screenshots:
 
-> [!CAUTION]
-> Need to add screenshots. 
+![image](https://github.com/user-attachments/assets/d2b194d7-b549-4cfa-a892-ca8599c5e318)<br>
+![image](https://github.com/user-attachments/assets/aeda3b67-f5d2-4d18-b023-05d4caf692ef)<br>
+![image](https://github.com/user-attachments/assets/d1a3834f-e5e7-4dd8-95f5-f98a2d998bb8)<br>
+![image](https://github.com/user-attachments/assets/3f1a2beb-7513-454d-bf77-0141b6865998)<br>
+![image](https://github.com/user-attachments/assets/3c609ed5-1a1e-4e58-b9f9-4663c2122dfb)
 
 ## Python File Path Generator
 
